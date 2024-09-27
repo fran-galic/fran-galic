@@ -16,6 +16,12 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
+      # Dodajemo korak za instalaciju Node.js verzije 20
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
