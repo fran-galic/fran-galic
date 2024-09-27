@@ -16,14 +16,21 @@
 
  💬 Ask me about **my internship at Infinum, where I completed the React and Next.js academy!**
 
- 📫 How to reach me: **[fran.galic7@gmail.com](mailto:fran.galic7@gmail.com), [fran.galic@fer.hr](mailto:fran.galic@fer.hr)**
-
- 📄 Know about my experiences **[click here](https://drive.google.com/file/d/1jxst3n7w4xXcQdNEhC5wd5B7LS7kiU10/view?usp=sharing)**.
-
- ⚡ Fun fact - **I started my career as a mechanical engineering technician with a deep passion for robotics before shifting my focus towards programming!**
+ ⚡ Fun fact - **I started my career as a mechatronics technician with a deep passion for robotics before shifting my focus towards programming!**
 
 </div>
- 
+
+<!-- New CV Section -->
+<h2 align="center"><b>Resume / CV:</b></h2>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1jxst3n7w4xXcQdNEhC5wd5B7LS7kiU10/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV" />
+  </a>
+</div>
+
+<!-- Get in Contact Section -->
+<h2 align="center"><b>Get in Contact:</b></h2>
+
 <div align="center"> 
   <a href="mailto:fran.galic7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-E7E7E7?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,10 +39,10 @@
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/frangalic" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/galic_fran" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
