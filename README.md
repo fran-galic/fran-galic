@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**.
+ 🔭 I’m currently working on **EasyRent – an application for car rentals**.
 
  🌱 I’m currently learning **Python, PyTorch, the basics of NLP, and statistical data analysis**.
 
