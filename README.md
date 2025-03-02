@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fran+Galić!;&color=0A9548" />
 </h1>
 
-<h3 align="center">An ambitious computer science student based in Zagreb, currently learning about artificial intelligence and data science, while also exploring front-end development.</h3>
+<h3 align="center">An ambitious computer science student based in Zagreb, currently learning about artificial intelligence, data science, and NLP, while also exploring leadership and team management skills.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **EasyRent – an application for car rentals**.
+ 🔭 I’m currently working on my undergraduate thesis: **Unsupervised Entity Linking for Low-Resource Languages – A Case Study on Croatian.**
 
- 🌱 I’m currently learning **Python, PyTorch, the basics of NLP, and statistical data analysis**.
+ 🌱 I’m currently learning **Python, PyTorch, the basics of NLP, statistical data analysis and AI**.
 
  💬 Ask me about **my internship at Infinum, where I completed the React and Next.js academy!**
 
