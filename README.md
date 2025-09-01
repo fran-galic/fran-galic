@@ -25,7 +25,7 @@
 <!-- CV Section -->
 <h2 align="center"><b>Resume / CV:</b></h2>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1Deuw3TzJegorEjIcoAetHApznr-T-FwD/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1eilK_IrweEhfLmC8ztDw8Ncv0zLUFQRr/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV" />
   </a>
 </div>
