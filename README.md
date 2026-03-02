@@ -1,22 +1,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fran-galic.fran-galic" />
 
-<table>
-  <tr>
-    <td width="42%">
-      <img src="assets/park.jpeg" alt="Fran working outdoors" style="border-radius: 16px; border: 1px solid #e5e7eb;" />
-    </td>
-    <td width="58%" valign="top">
-      <h1>Hi, I’m Fran Galić 👋</h1>
-      <p>
-        Data Science MSc student at FER (Zagreb). I like building ML/NLP systems that are <b>reproducible</b>, <b>measurable</b>, and <b>useful</b> — from data to evaluation to clean code.
-      </p>
+<h1 align="center">Hi, I’m Fran Galić 👋</h1>
 
+<p align="center">
+  Data Science MSc student at FER (Zagreb). I build ML/NLP systems that are <b>reproducible</b>, <b>measurable</b>, and <b>useful</b> — from data and training to evaluation and clean, maintainable code.
+</p>
+
+<hr/>
+
+<h2 align="center">What I’m working on</h2>
 <ul>
-  <li><b>Spaniverse</b> — LLM evaluation on <b>span-level tasks</b> (e.g., entity linking). Current focus: a modular <b>Wikidata/Wikipedia knowledge base workflow</b> (builders → validated intermediate format → disk-backed KB).</li>
-  <li><b>Carefree</b> — student–psychologist matching with an <b>LLM-based assistant</b>, designed with safety, privacy, and human-in-the-loop use in mind.</li>
-  <li><b>Interests</b> — LLM evaluation, interpretability/robustness in sensitive domains, and practical ML systems engineering.</li>
+  <li><b>Spaniverse</b> — benchmark & tooling for evaluating LLMs on <b>span-level NLP tasks</b> (e.g., NER, entity linking). I’m currently designing the <b>knowledge base workflow</b>: Wikidata/Wikipedia builders → validated intermediate format → disk-backed KB, plus evaluation utilities around it.</li>
+  <li><b>Carefree</b> — student–psychologist matching platform with an <b>LLM-based assistant</b>. I’m exploring how LLMs should be used in <b>socially sensitive domains</b>, with safety, privacy, and human-in-the-loop usage in mind.</li>
 </ul>
 
+<h2 align="center">Interests</h2>
+<ul>
+  <li><b>LLM evaluation & reproducibility</b> (data, metrics, baselines, ablations).</li>
+  <li><b>Interpretability & robustness</b> in high-stakes settings.</li>
+  <li><b>Practical ML systems engineering</b>: data → models → deployment-ready structure.</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">🔗 Links 🔗</h2>
 <p align="center">
   <a href="https://drive.google.com/file/d/1eilK_IrweEhfLmC8ztDw8Ncv0zLUFQRr/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume%20%2F%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume / CV" />
@@ -29,12 +36,7 @@
   </a>
 </p>
 
-  </tr>
-</table>
-
-<hr/>
-
-<h2 align="center">📩 Contact 📩</h2>
+<h2 align="center">✉️ Get in touch ✉️</h2>
 <p align="center">
   <a href="mailto:fran.galic7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-E7E7E7?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -47,7 +49,7 @@
 <hr/>
 
 <h2 align="center">🛠 Core stack (DS / ML / Data Engineering) 🛠</h2>
-<p align="center">
+<p align="center" style="margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -55,7 +57,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 0px; margin-bottom: 6px;">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -63,7 +65,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 0px;">
   <sub>Also used when needed: TypeScript/JavaScript, D3.js, BigQuery, dbt, Great Expectations, CI/CD, Kubernetes (basics).</sub>
 </p>
 
