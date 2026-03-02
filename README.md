@@ -1,16 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fran-galic.fran-galic" />
 
-<!-- Optional banner image (see instructions below) -->
-<!--
 <p align="center">
   <img src="assets/park.jpg" alt="Fran working outdoors" width="900" />
 </p>
--->
 
 <h1 align="center">Hi, I’m Fran Galić 👋</h1>
 
 <p align="center">
-  Data Science MSc student at FER (Zagreb). I build ML/NLP systems end-to-end — from data pipelines and evaluation to clean, reproducible code.
+  Data Science MSc student at FER (Zagreb). I build ML/NLP systems end-to-end - from data pipelines and evaluation to clean, reproducible code.
 </p>
 
 ---
@@ -88,6 +85,4 @@
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=fran-galic&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-fran-galics-projects.vercel.app/api?username=fran-galic&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-galic&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&include_all_commits=true" alt="top languages" />
 </div>
