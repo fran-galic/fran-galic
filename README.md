@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fran-galic.fran-galic" />
 
-<h1 align="center">Hi, I’m Fran Galić 👋</h1>
+<h1 align="center">
+  <span style="color:#0A7A3B;">Hi, I’m Fran Galić</span> 👋
+</h1>
 
 <p align="center">
   Data Science MSc student at FER (Zagreb). I build ML/NLP systems that are <b>reproducible</b>, <b>measurable</b>, and <b>useful</b> — from data and training to evaluation and clean, maintainable code.
@@ -49,15 +51,14 @@
 <hr/>
 
 <h2 align="center">🛠 Core stack (DS / ML / Data Engineering) 🛠</h2>
-<p align="center" style="margin-bottom: 4px;">
+<p align="center" style="margin-bottom: 2px;">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
-
-<p align="center" style="margin-top: 0px; margin-bottom: 6px;">
+<p align="center" style="margin-top: 0px; margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
