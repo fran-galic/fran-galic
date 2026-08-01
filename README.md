@@ -3,22 +3,17 @@
 </h1>
 
 <p align="center">
-  <b>Data Science MSc student at FER, University of Zagreb</b>
+  <b>Data Science MSc student at FER, University of Zagreb</b><br/><br/>
+  Working toward a career as a <b>Research Engineer / Applied Scientist</b>
+  focused on <b>NLP, foundation and multimodal models, information retrieval,
+  and agentic AI</b>.
 </p>
 
 <p align="center">
-  Working toward a career as a <b>Research Engineer / Applied Scientist</b><br/>
-  at the intersection of <b>NLP, foundation and multimodal models,
-  information retrieval, and agentic AI</b>.
+  I am interested in combining rigorous ML research with production-grade
+  engineering to build systems that use external knowledge and tools while
+  remaining <b>reliable, interpretable, safe, and useful</b>.
 </p>
-
-<p align="center">
-  I aim to combine rigorous machine-learning research with production-grade
-  engineering to build AI systems that use external knowledge and tools while
-  remaining <b>reliable, efficient, interpretable, safe, and useful</b>.
-</p>
-
-<h2 align="center">Let's connect</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1oGlfkVK7rxNstafCfDtno2RYRu-SKX9_/view?usp=sharing">
