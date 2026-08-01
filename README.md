@@ -17,23 +17,16 @@
 <h2 align="center">About me</h2>
 
 <p>
-  I am working toward becoming a <b>Research Engineer or Applied Scientist</b>
-  specializing in reliable language, multimodal, and agentic AI systems that
-  can use external knowledge and tools.
+  I am a Data Science MSc student working toward a career as a
+  <b>Research Engineer or Applied Scientist</b>. I am particularly interested in
+  NLP, foundation and multimodal models, information retrieval, and agentic
+  systems that can use external knowledge and tools.
 </p>
 
 <p>
   I want to combine a deep understanding of machine learning with rigorous
-  research, production-grade engineering, and responsible deployment. I am
-  particularly interested in understanding how models work, why they produce
-  certain results, where they fail, and how to make them more
+  research and production-grade engineering to build AI systems that are
   <b>reliable, efficient, interpretable, safe, and useful</b>.
-</p>
-
-<p>
-  In the long term, I want to grow into a technical and research leadership
-  role—helping define the direction of AI systems, leading teams, and mentoring
-  others while remaining close to research and engineering.
 </p>
 
 <h2 align="center">Let's connect</h2>
