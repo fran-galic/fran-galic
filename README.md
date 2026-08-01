@@ -7,26 +7,15 @@
 </p>
 
 <p align="center">
-  Aspiring Research Engineer / Applied Scientist interested in<br/>
-  <b>NLP, foundation and multimodal models, information retrieval, and agentic AI systems</b><br/>
-  that are <b>reliable, interpretable, and safe.</b>
+  Working toward a career as a <b>Research Engineer / Applied Scientist</b><br/>
+  at the intersection of <b>NLP, foundation and multimodal models,
+  information retrieval, and agentic AI</b>.
 </p>
 
-<hr/>
-
-<h2 align="center">About me</h2>
-
-<p>
-  I am a Data Science MSc student working toward a career as a
-  <b>Research Engineer or Applied Scientist</b>. I am particularly interested in
-  NLP, foundation and multimodal models, information retrieval, and agentic
-  systems that can use external knowledge and tools.
-</p>
-
-<p>
-  I want to combine a deep understanding of machine learning with rigorous
-  research and production-grade engineering to build AI systems that are
-  <b>reliable, efficient, interpretable, safe, and useful</b>.
+<p align="center">
+  I aim to combine rigorous machine-learning research with production-grade
+  engineering to build AI systems that use external knowledge and tools while
+  remaining <b>reliable, efficient, interpretable, safe, and useful</b>.
 </p>
 
 <h2 align="center">Let's connect</h2>
@@ -95,27 +84,24 @@
 
 <hr/>
 
-<h2 align="center">Research background</h2>
+<h2 align="center">Research & engineering background</h2>
 
 <ul>
   <li>
-    <b>BSc thesis:</b> end-to-end entity linking for Croatian, including
-    NER ensembling, candidate-retrieval analysis, and evaluation on the
-    CRONEL dataset.
+    <b>BSc thesis:</b> developed an end-to-end entity-linking system for Croatian,
+    including NER ensembling and candidate-retrieval analysis on the CRONEL dataset.
   </li>
   <li>
-    Experience developing and evaluating multilingual NLP and deep-learning
-    systems with an emphasis on reproducibility, meaningful metrics, and
-    careful error analysis.
+    Worked on multilingual and span-level NLP using transformer models,
+    structured representations, and hierarchical prediction methods.
   </li>
   <li>
-    Current research interests include LLM evaluation and interpretability,
-    information retrieval, external knowledge, multimodal models, agentic
-    systems, robustness, and responsible AI.
+    Experience designing reproducible ML experiments with meaningful metrics,
+    strong baselines, careful error analysis, and interpretable results.
   </li>
   <li>
-    Practical experience connecting research with real systems through
-    data pipelines, model evaluation, APIs, testing, containers, and deployment.
+    Built end-to-end ML and software systems spanning data pipelines, model
+    development, APIs, testing, containers, and deployment.
   </li>
 </ul>
 
