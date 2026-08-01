@@ -8,7 +8,7 @@
 
 <p align="center">
   Aspiring Research Engineer / Applied Scientist focused on<br/>
-  <b>reliable NLP, multimodal, and agentic AI systems.</b>
+  <b>reliable NLP, information retrival, multimodal, and agentic AI systems.</b>
 </p>
 
 <hr/>
