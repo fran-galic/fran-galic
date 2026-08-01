@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  Aspiring Research Engineer / Applied Scientist focused on<br/>
-  <b>reliable NLP, interpretability, information retrival, multimodal, and agentic AI systems.</b>
+  Aspiring Research Engineer / Applied Scientist interested in<br/>
+  <b>NLP, foundation and multimodal models, information retrieval, and agentic AI systems</b><br/>
+  that are <b>reliable, interpretable, and safe.</b>
 </p>
 
 <hr/>
