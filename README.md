@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1oGlfkVK7rxNstafCfDtno2RYRu-SKX9_/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1LMGvzd3CZhJUCRsCHV-JtN5W-gTksSJH/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume%20%2F%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume / CV" />
   </a>
   <a href="https://linkedin.com/in/frangalic">
